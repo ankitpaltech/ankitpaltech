@@ -1,5 +1,5 @@
-Passionated web developer
-Reactjs / java / HTML / CSS / JS / Nodejs
+Passionated web developer.
+Expertise in Reactjs / java / HTML / CSS / JS / Nodejs
 
 
 
