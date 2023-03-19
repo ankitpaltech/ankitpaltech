@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ankitpaltech
-- 👀 I’m interested in programming
-- 🌱 I’m currently working with java and python 
+Passionated web developer
+Reactjs / java / HTML / CSS / JS / Nodejs
+
 
 
 <!---
